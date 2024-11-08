@@ -1,7 +1,7 @@
 {
     "type": "micro",
     "wake_word": "Delta awaik",
-    "author": "Spark of Darkn3ss",
+    "author": "Spark of Darkness",
     "model": "./delta_ahwaik.tflite",
     "version": 1,
     "micro": {
